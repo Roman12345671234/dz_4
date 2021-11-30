@@ -126,9 +126,6 @@ h1{
     padding-top: 50px;
     margin-top: 30px;
 }
-section2{
-    background-color: #FFFFFF;
-}
 p{
     text-align: center;
     padding-bottom: 79px;
@@ -136,7 +133,7 @@ p{
 section3{
     position: relative;
     cursor: pointer;
-    background: url(../images/22.jpg) no-repeat;
+    background: url(../images/222.jpg) no-repeat;
     padding-bottom: 384px;
     padding-left: 1200px;
     font-size: 20px;
@@ -145,28 +142,72 @@ section3{
 section4{
     position: relative;
     cursor: pointer;
-    background: url(../images/23.jpg) no-repeat;
+    background: url(../images/223.jpg) no-repeat;
     padding-bottom: 384px;
     padding-left: 1200px;
     font-size: 20px;
     display: inline;
+    padding-top: 10px;
 }
 section5{
     position: relative;
     cursor: pointer;
-    background: url(../images/24.jpg) no-repeat;
-    padding-top: 10px;
-    padding-bottom: 390px;
-    padding-left: 1200px;
+    background: url(../images/224.jpg) no-repeat;
+    padding-top: 27px;
+    padding-bottom: 384px;
+    padding-left: 1220px;
     font-size: 20px;
     color: #FFFFFF;
 }
 section6{
     position: relative;
     cursor: pointer;
-    background: url(../images/25.jpg) no-repeat;
-    padding-bottom: 420px;
+    background: url(../images/225.jpg) no-repeat;
+    padding-bottom: 398px;
     padding-left: 1200px;
     font-size: 20px;
     display: inline;
+    padding-top: 32px;
+    background-color: #FFFFFF;
 }
+h2{
+    text-align: center;
+    margin-top: 91px;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+a2{
+    text-decoration: none;
+    color: #FFFFFF;
+    border-radius: 5px;
+    background-color: #756257;
+    margin-left: 300px;
+    display: inline-block;
+    vertical-align: middle;
+    height: 60px;
+    width: 575px;
+    position: center;
+    text-align: center;
+    padding-left: 27px;
+    padding-top: 20px;
+    margin-bottom: 91px;
+}
+a2:hover {
+    background: #f73;
+    color: yellow;
+}
+a2:hover {
+    background: #f73;
+    color: yellow;
+}
+section8{
+    position: relative;
+    background: url(../images/226.jpg) no-repeat;
+    font-size: 22px;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
