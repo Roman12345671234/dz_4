@@ -1,6 +1,16 @@
 .content {
     max-width: 1200px;
-    margin: auto;
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    position: absolute; /* Относительное позиционирование */
+    border: 1px solid #000; /* Внешнея граница вокруг блока div */
+    width: 1000px; /* Ширина блока div */
+    min-height: 950px; /* Минимальная высота блока */
+    margin-left: -500px; /* Внешний левый отступ. Отрицательное значение означает, что блок выходит за левого края браузера на 500px */
+    left: 50%; /* Позиционирование относительно левого края окна браузера */
+    background-color: #7AB8E9; /* Цвет фона для блока */
 }
 header {
     display: flex;
@@ -154,7 +164,7 @@ section5{
     background: url(../images/224.jpg) no-repeat;
     padding-top: 27px;
     padding-bottom: 384px;
-    padding-left: 1220px;
+    padding-left: 1200px;
     font-size: 20px;
     color: #FFFFFF;
 }
