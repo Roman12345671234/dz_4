@@ -17,7 +17,6 @@ ul{
     display: inline;
     margin-left: 71px;
 }
-
 #main>div{
     width: 150px;
     height: 120px;
@@ -221,7 +220,6 @@ textarea{
     border: none;
     margin-top: -68px;
 }
-
 button3:hover {
     background: #f73;
     color: yellow;
@@ -244,4 +242,3 @@ section9 {
     position: relative;
 }
 
-<p style="text-align: center"><b>+7 (812) 812-12-12</b></p>
