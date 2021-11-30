@@ -1,18 +1,4 @@
-.content {
-    max-width: 1200px;
-    margin: 0px;
-    padding: 0px;
-}
-#wrapper{
-    position: absolute; /* Относительное позиционирование */
-    border: 1px solid #000; /* Внешнея граница вокруг блока div */
-    width: 1000px; /* Ширина блока div */
-    min-height: 950px; /* Минимальная высота блока */
-    margin-left: -500px; /* Внешний левый отступ. Отрицательное значение означает, что блок выходит за левого края браузера на 500px */
-    left: 50%; /* Позиционирование относительно левого края окна браузера */
-    background-color: #7AB8E9; /* Цвет фона для блока */
-}
-header {
+header{
     display: flex;
     background-image: url(../images/1.jpg);
     width: 1200px;
@@ -40,7 +26,7 @@ section{
     margin-top: 25px;
 }
 * {box-sizing: border-box;}
-form {
+form{
     position: relative;
     width: 18px;
     margin-top: 12px;
@@ -48,7 +34,7 @@ form {
     background: #FFFFFF;
     float:left;
 }
-input {
+input{
     height: 35px;
     width: 18px;
     padding: 0 42px 0 15px;
@@ -63,12 +49,12 @@ input {
     z-index: 2;
     color: red;
 }
-input:focus {
+input:focus{
     width: 200px;
     z-index: 1;
     border: 2px solid #f73;
 }
-button {
+button{
 color: #FFFFFF;
     border: none;
     height: 18px;
@@ -84,7 +70,7 @@ section1{
     margin-top: 10px;
     margin-left: 400px;
 }
-button2 {
+button2{
     height: 18px;
     width: 18px;
     position: relative;
@@ -96,7 +82,7 @@ button2 {
     padding-left: 20px;
     color: black;
 }
-form1 {
+form1{
     position: relative;
     width: 18px;
     margin-top: 12px;
@@ -118,15 +104,15 @@ a1{
     padding-left: 27px;
     padding-top: 10px;
 }
-a:hover {
+a:hover{
     background: #f73;
     color: yellow;
 }
-a1:hover {
+a1:hover{
     background: #f73;
     color: yellow;
 }
-button:hover {
+button:hover{
     background: #f73;
     color: yellow;
 }
@@ -201,11 +187,11 @@ a2{
     padding-top: 20px;
     margin-bottom: 91px;
 }
-a2:hover {
+a2:hover{
     background: #f73;
     color: yellow;
 }
-a2:hover {
+a2:hover{
     background: #f73;
     color: yellow;
 }
@@ -230,11 +216,11 @@ textarea{
     border: none;
     margin-top: -68px;
 }
-button3:hover {
+button3:hover{
     background: #f73;
     color: yellow;
 }
-button3 {
+button3{
     position: absolute;
     cursor: pointer;
     background: #83B3D3;
@@ -248,7 +234,7 @@ button3 {
     display: inline;
     text-align: left;
 }
-section9 {
+section9{
     position: relative;
 }
 
